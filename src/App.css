@@ -1,0 +1,25 @@
+
+input{
+    width: 100%;
+}
+.item-container{
+    text-align: left;
+}
+
+.kg-row{
+    margin: 10px 5px;
+}
+.kg-button{
+    min-width: 80px;
+    text-align: left;
+}
+.cl-4{
+    padding-right: 100px;
+}
+.todo-container{
+    border: 1px solid rgb(90,90,90);
+    width: 600px;
+    border-radius: 5px;
+    
+    margin: auto;
+}
